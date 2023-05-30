@@ -1,0 +1,21 @@
+.tools {
+    margin-top: 30px;
+    padding: 10px;
+    text-transform: uppercase;
+    background: #FECD4E;
+    background: linear-gradient(242deg, #FECD4E 100%);
+    border-radius: 20px;
+    float: left;
+    margin-left: 150px;
+    box-shadow: #333 4px 9px 8px 5px;
+    margin-bottom: 40px;
+  }
+  .tools > h3 {
+    margin: 20px;
+    text-decoration: underline solid 2px;
+  }
+  .tools > ul > li {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
